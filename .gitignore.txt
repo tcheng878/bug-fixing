@@ -1,2 +1,0 @@
-secret_test.txt
-secret_test/
